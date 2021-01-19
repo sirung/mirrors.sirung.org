@@ -1,8 +1,8 @@
 <span id="a">mirrors@sirung.org</span>:<span id="b">~</span><span id="c">$</span> cd /mnt/MirrorStorage/<!-- kjsdfhkjdhsfkjdshfkj -->About_SirungMirror
-<span id="a">mirrors@sirung.org</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Sirung_Brief.txt<br/><br/>
+<span id="a">mirrors@sirung.org</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Sirung_Brief_current_homepage.txt<br/><br/>
 My favorite code quote, "<span id="k">Free Software, Free Society</span>". <!-- sjkfhskjf -->
 
-Hey There! I am SirungMirror/息壤开源镜像.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently under maintainance, not in full running status.You can visit the below sites, here: <br><br> <a href="https://fuchsia.fsf.org.cn">https://fuchsia.fsf.org.cn</a> <br> <a href="https://mirrors.lug.org.cn">https://mirrors.lug.org.cn</a> <br> <a href="https://lug.org.cn">China GNU/Linux User Group</a> and <br> <a href="https://openingsource.org">OpeningSource/开源工场</a>.</p>
+Hey There! I am SirungMirror/息壤开源镜像.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently under maintainance, not in full running status.You can visit the below sites maintainanced by me, and keep an eye on latest news: <br><br> <a href="https://fuchsia.fsf.org.cn">https://fuchsia.fsf.org.cn</a> <br> <a href="https://mirrors.lug.org.cn">https://mirrors.lug.org.cn</a> <br> <a href="https://openingsource.org">OpeningSource/开源工场</a> and <br> <a href="https://lug.org.cn">China GNU/Linux User Group</a>>.</p>
 If you have any questions or just would like to get in touch with us<!-- slightdelayhere-->, feel free to find me in the group <a href="https://t.me/OpensingSource">Telegram</a>.
 
 <p>Cheers!</p>
